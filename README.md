@@ -10,6 +10,7 @@ JUnit 5.6.0 https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-a
 3. Run the main method
 ## Highlights
 Thoroughly tested for robustness
+
 Single character values have been accounted for 
 Capital letter are accounted for.
 
